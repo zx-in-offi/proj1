@@ -10,3 +10,14 @@ body {
     height: 100%;
     width: 100%;
 }
+
+main{
+    height: 100%;
+    width: 100%;
+    background-color: #d5ff40;
+}
+nav {
+    background-color: white;
+    padding: 60px 100px;
+    width: 100%;
+}
